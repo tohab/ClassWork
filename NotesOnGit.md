@@ -1,3 +1,5 @@
+Overview
+======
 Git is a distributed version control system (DVCS).  In essence, Git allows you to take a collection of files (called a *repository* ) and track the changes made to those files over time.  Because it is a distributed system, Git allows multiple users the opportunity to work with files independently, collaboratively, without regard to their physical location.  Version control implies that the history of a file is maintained throughout its lifetime so that users can see where and when changes were made and, if needed, roll back the file to any previous state.
 
 
