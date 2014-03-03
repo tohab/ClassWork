@@ -17,5 +17,9 @@ Three ways to start (the first two are standard; the third, the one we will use)
 
 Understanding How Git Works and What You're Doing
 ======
-Excellent online book about Git <a href = "http://git-scm.com/book"> here </a>.  Although I recommend you browse through Chapter Two, this book is not specifically about using GitHub.
+Excellent online book about Git <a href = "http://git-scm.com/book"> here </a>.  Note: although I recommend you browse through Chapter Two for a background glimpse into Git, this book is not specifically about using GitHub.
+
+The free tutorials <a href="https://www.codeschool.com/courses/git-real"> here </a> and <a href="http://try.github.io/levels/1/challenges/1"> here </a> at Code School are also NOT about GitHub but about working with Git through the command line prompt.  Still, if you have 15 min. it will give you a feel for what Eclipse and other team tools can do semi-automatically for you.
+
+
 
