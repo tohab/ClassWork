@@ -22,4 +22,5 @@ public static void main(String[] args) {
   System.out.println("THis should BE ANOTHER STUDENT);
   System.out.println("Hello from JoCodi Simons");
   System.out.println("HEllo from Kali Setzer");
+  System.out.println("Sweet Jesus Almighty Its Adam");
 }
